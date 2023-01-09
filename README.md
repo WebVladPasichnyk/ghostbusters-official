@@ -1,1 +1,1 @@
-# ghostbusters-official
+# ghostbusters-official.github.io
