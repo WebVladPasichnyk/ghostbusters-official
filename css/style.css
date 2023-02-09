@@ -135,6 +135,7 @@ body{
    padding-left: 81px;
    padding-right: 81px;
    cursor: pointer;
+   align-items: center;
 }
 .trailer-button-icon,
 .trailer-button-text{
