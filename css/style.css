@@ -597,7 +597,7 @@ body {
    }
 }
 
-@media (max-width: 374px) {
+@media (max-width: 428px) {
    .container {
       width: 95%;
    }
