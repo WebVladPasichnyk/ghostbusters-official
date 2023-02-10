@@ -171,7 +171,7 @@ body {
 .poster {
    border-top-right-radius: 5px;
    border-top-left-radius: 5px;
-   width: 358px;
+   width: 428px;
 }
 
 .trailer-button {
@@ -657,6 +657,9 @@ body {
 
    .tabs {
       margin-bottom: 35px;
+   }
+   .section-title.active {
+      margin-left: 35px;
    }
 
    .cast {
